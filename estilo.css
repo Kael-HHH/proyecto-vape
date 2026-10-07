@@ -1,0 +1,94 @@
+#cerebro
+{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(27, 243, 52);
+}
+
+#pulmones
+{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(27, 243, 52);
+}
+
+#corazon
+{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(27, 243, 52);
+}
+
+
+#cuerpo
+{
+    width: auto;
+    height: 700px;
+    left: 0;
+    display: block;
+    margin-left: -180px;
+
+}
+
+#btnfumar
+{
+    width: 100px;
+    height: 40px;
+    font-size: large;
+    font-weight: bold;
+    display: block;
+    margin-left:  50%;
+}
+
+#Mensajes
+{
+    color: red;
+    font-weight: bold;
+}
+
+#vape
+{
+    width: 70px;
+    height: auto;
+    position: absolute;
+    transform: rotate(-55deg);
+    top: 23%;
+    left: 68%;
+    visibility: hidden;
+}
+
+.contenedor
+{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.panel
+{
+    display: block;
+    margin-left: -170px;
+}
+
+.organos
+{
+    height: auto;
+    width: 150px;
+}
+
+.box
+{
+    position: relative;
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    margin: 8px;
+}
+
+.numero
+{
+    position: absolute;
+    font-weight: bold;
+    top: 5px;
+    left: 55px;
+}
